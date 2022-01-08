@@ -6,8 +6,8 @@ I didn't do TOO much however, as I would keep making improvements all day. I hav
 
 Also, there are no warnings, and all my styled components are siloed in one place, as are all my utils and naming conventions
 
-![movie detail page](client\public\Screenshot1.png)
-![home page](client\public\Screenshot2.png)
+![movie detail page](client/public/Screenshot1.png)
+![home page](client/public/Screenshot2.png)
 
 ### src config (already done so you shouldn't have to)
 
