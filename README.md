@@ -1,8 +1,15 @@
 # ALL INSTALLATIONS ARE DONE WITH YARN
 
-Hello and THANK YOU for taking time to consider me for the position. This app is to demonstrate a quick overview of implementing a simple full stack React app with a GraphQL server. This movie app is bootstrapped with MUI (version 4) and an Apollo Client. There are two query calls, <b>getMovies</b> (list of movies) and <b>getTitle</b> (more in-depth details for an individual movie's page). Note that I did actually elect to use real JSON data as opposed to mock data as it left me to comb through a larger HTTP response in order to allow me to demonstrate skills that I wouldn't be able to do with simpler data,
+Hello and THANK YOU for taking time to consider me for the position. This app is to demonstrate a quick overview of implementing a simple full stack React app with a GraphQL server. This movie app is bootstrapped with MUI (version 4) and an Apollo Client. There are two query calls, <b>getMovies</b> (list of movies) and <b>getTitle</b> (more in-depth details for an individual movie's page). Note that I did actually elect to use real JSON data as opposed to mock data as it left me to comb through a larger HTTP response in order to allow me to demonstrate skills that I wouldn't be able to do with simpler data, as I like a good challenge!
 
-### src config
+I didn't do TOO much however, as I would keep making improvements all day. I have my calls fixed to 50 results, but I can also add a search query as well as pagination and changing the limit of results with an input on the home page, but for the sake of time I believe this is a very sufficient attempt (as you also said you didn't want me to go too deep into this first challenge)
+
+Also, there are no warnings, and all my styled components are siloed in one place, as are all my utils and naming conventions
+
+![movie detail page](client\public\Screenshot1.png)
+![home page](client\public\Screenshot2.png)
+
+### src config (already done so you shouldn't have to)
 
 - [jsconfig.json](https://code.visualstudio.com/docs/languages/jsconfig)
 
